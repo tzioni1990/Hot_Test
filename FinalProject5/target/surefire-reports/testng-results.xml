@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[<br/><p><img width='612' src='C:\Users\tzion\OneDrive\שולחן העבודה\NewWorkspace\FinalProject5\14_01_2023_10_26_05_image.png'></p>]]>
+    </line>
+    <line>
+      <![CDATA[<br/><p><img width='612' src='C:\Users\tzion\OneDrive\שולחן העבודה\NewWorkspace\FinalProject5\14_01_2023_10_26_28_image.png'></p>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-01-14T10:25:32 IST" name="Suite" finished-at="2023-01-14T10:26:38 IST" duration-ms="66166">
+    <groups>
+    </groups>
+    <test started-at="2023-01-14T10:25:32 IST" name="Test" finished-at="2023-01-14T10:26:38 IST" duration-ms="66166">
+      <class name="test.TestPageObject">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:test.TestPageObject@18a3962d]" started-at="2023-01-14T10:25:32 IST" name="beforeClass" finished-at="2023-01-14T10:25:34 IST" duration-ms="1929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:test.TestPageObject@18a3962d]" started-at="2023-01-14T10:25:35 IST" name="beforeMethod" finished-at="2023-01-14T10:25:35 IST" duration-ms="700" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test1(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:test.TestPageObject@18a3962d]" started-at="2023-01-14T10:25:35 IST" name="test1" data-provider="dataFromExcel" finished-at="2023-01-14T10:26:05 IST" duration-ms="29309" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[כפר יונה]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[שושנה דמארי]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[11]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[49]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[0545801250]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<br/><p><img width='612' src='C:\Users\tzion\OneDrive\שולחן העבודה\NewWorkspace\FinalProject5\14_01_2023_10_26_05_image.png'></p>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.TestPageObject@18a3962d]" started-at="2023-01-14T10:26:05 IST" name="afterMethod" finished-at="2023-01-14T10:26:15 IST" duration-ms="10013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:test.TestPageObject@18a3962d]" started-at="2023-01-14T10:26:15 IST" name="beforeMethod" finished-at="2023-01-14T10:26:15 IST" duration-ms="515" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test1(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:test.TestPageObject@18a3962d]" started-at="2023-01-14T10:26:15 IST" name="test1" data-provider="dataFromExcel" finished-at="2023-01-14T10:26:28 IST" duration-ms="12923" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[חדרה]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[הגבורים]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[110]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[046322510]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<br/><p><img width='612' src='C:\Users\tzion\OneDrive\שולחן העבודה\NewWorkspace\FinalProject5\14_01_2023_10_26_28_image.png'></p>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.TestPageObject@18a3962d]" started-at="2023-01-14T10:26:28 IST" name="afterMethod" finished-at="2023-01-14T10:26:38 IST" duration-ms="10004" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:test.TestPageObject@18a3962d]" started-at="2023-01-14T10:26:38 IST" name="afterClass" finished-at="2023-01-14T10:26:38 IST" duration-ms="233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- test.TestPageObject -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
